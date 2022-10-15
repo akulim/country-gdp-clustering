@@ -32,6 +32,3 @@ There is a specific criteria that should be fulfilled, it should be indicated by
 6. Create clusters with Elbow Method, which resulted into 4 clusters (0, 1, 2, 3).
 7. After clustering, there are still some data that overlapped with each others and I decided to create a new parameter, which could be calculated from dividing the 'Health Cost' to 'GDP per capita'. <br>
 It means, if the ratio is getting higher, there is a high cost of 'Health' compared to 'GDP per capita' of the country.
-
-## Conclusion
-There are 4 countries that have ratio above 2, those are: Burundi, Liberia, Sierra Leone, and Congo, Dem. Rep.
