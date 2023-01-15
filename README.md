@@ -27,7 +27,7 @@ There is a specific criteria that should be fulfilled, it should be indicated by
 3. Visualize the correlation among features, to know whether it is positive/negative correlated, or no correlation at all. Especially, between the 'health' and 'socioeconomic' features.
 4. **Choose 2 features**:
 * Feature that could be represented as socioeconomic is the **GDP per capita**.
-* From step 3, there are only 1 feature from health that is not correlated to GDP per capita, which is **Health cost**.
+* From step 3, there is only 1 feature from health that is not correlated to GDP per capita, which is **Health cost**.
 5. Visualize the relation between those 2 through scatterplot and drop outlier (if any).
 6. Create clusters with Elbow Method, which resulted into 4 clusters (0, 1, 2, 3).
 7. After clustering, there are still some data that overlapped with each others and I decided to create a new parameter, which could be calculated from dividing the 'Health Cost' to 'GDP per capita'. <br>
