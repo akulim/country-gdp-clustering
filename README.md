@@ -1,5 +1,5 @@
-# Country Classification For Financial Aid
-The "Country Classification for Financial Aid" is the final project from Basic Data Science class in Sanbercode per February 2022. <br>
+# Country's GDP Clustering For Financial Aid
+The "Country's GDP Clustering for Financial Aid" is the final project from Basic Data Science class in Sanbercode per February 2022. <br>
 The full dataset can not be shared publicly, but it contains 10 features, those are: 
 * Country
 * Child Mortality
